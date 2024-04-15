@@ -79,6 +79,7 @@ The [CoinAPI](https://docs.coinapi.io/#md-docs) is used as the API for this appl
 As you saw in the design and demo, the **Live prices** is using real time data from a web socket. To make the implementation easier for you here is some code that you can use:
 
 ### Web Socket Connection
+Documentation URL: https://docs.coinapi.io/market-data/websocket/
 
 To connect to the web socket you could do something as simple as this:
 
